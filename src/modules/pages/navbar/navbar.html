@@ -1,0 +1,25 @@
+<template>
+    <header class="navbar">
+        <!-- Brand Name + Logo -->
+        <a href="/" class="brand">
+            <img src="/public/assets/brand-logo.jpg" alt="Mr. SFDC Logo" class="brand-logo" />
+        </a>
+
+        <!-- Hamburger Menu for Mobile -->
+        <button class="hamburger" onclick={toggleMenu} aria-label="Toggle Menu">
+            ☰
+        </button>
+
+        <!-- Navigation Links -->
+        <nav class={navClass}>
+            <ul>
+                <li><a href="/" class="nav-link">Home</a></li>
+                <li><a href="/about" class="nav-link">About Me</a></li>
+                <li><a href="/contact" class="nav-link">Contact Us</a></li>
+            </ul>
+        </nav>
+
+        <!-- Resume Download Button (Styled as a Nav Link) -->
+        <a href="resume.pdf" download class="resume-btn">Download My Resume</a>
+    </header>
+</template>

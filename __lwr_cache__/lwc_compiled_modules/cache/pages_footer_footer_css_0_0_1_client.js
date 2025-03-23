@@ -1,0 +1,8 @@
+function stylesheet(token, useActualHostSelector, useNativeDirPseudoclass) {
+  var shadowSelector = token ? ("[" + token + "]") : "";
+  var hostSelector = token ? ("[" + token + "-host]") : "";
+  var suffixToken = token ? ("-" + token) : "";
+  return ".footer" + shadowSelector + " {background: linear-gradient(135deg, #2c3e50, #34495e);color: white;padding: 1rem;position: sticky;bottom: 0;width: 100%;z-index: 1000;text-align: center;}.footer-content" + shadowSelector + " {display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;margin: 0 auto;}.social-links" + shadowSelector + " {display: flex;gap: 1rem;justify-content: flex-start;}.social-link" + shadowSelector + " img" + shadowSelector + " {width: 25px;height: 25px;transition: transform 0.3s ease;}.social-link" + shadowSelector + " img:hover" + shadowSelector + " {transform: scale(1.1);}.footer-text" + shadowSelector + " {font-size: 0.9rem;margin-top: 0;text-align: center;flex: 1;}@media screen and (max-width: 1366px) {.footer" + shadowSelector + " {padding: 0.8rem;}.footer-content" + shadowSelector + " {max-width: 1000px;}.social-link" + shadowSelector + " img" + shadowSelector + " {width: 22px;height: 22px;}.footer-text" + shadowSelector + " {font-size: 0.85rem;}}@media screen and (max-width: 768px) {.footer-content" + shadowSelector + " {flex-direction: column;align-items: center;gap: 0.5rem;}.social-links" + shadowSelector + " {justify-content: center;margin-bottom: 0.5rem;}.footer-text" + shadowSelector + " {font-size: 0.8rem;}}";
+  /*LWC compiler v8.13.1*/
+}
+export default [stylesheet];

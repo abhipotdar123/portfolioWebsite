@@ -1,0 +1,80 @@
+/* Footer Styles */
+.footer {
+    background: linear-gradient(135deg, #2c3e50, #34495e);
+    color: white;
+    padding: 1rem;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+}
+
+.social-link img {
+    width: 25px;
+    height: 25px;
+    transition: transform 0.3s ease;
+}
+
+.social-link img:hover {
+    transform: scale(1.1);
+}
+
+.footer-text {
+    font-size: 0.9rem; /* Adjusted font size for 1366×768 */
+    margin-top: 0;
+    text-align: center; /* Center the copyright text */
+    flex: 1; /* Allow text to take remaining space */
+}
+
+/* Responsive Footer for 1366×768 */
+@media screen and (max-width: 1366px) {
+    .footer {
+        padding: 0.8rem; /* Slightly reduce padding */
+    }
+
+    .footer-content {
+        max-width: 1000px; /* Adjust max width for smaller screens */
+    }
+
+    .social-link img {
+        width: 22px; /* Slightly reduce icon size */
+        height: 22px;
+    }
+
+    .footer-text {
+        font-size: 0.85rem; /* Slightly reduce font size */
+    }
+}
+
+/* Mobile Styles (up to 768px) */
+@media screen and (max-width: 768px) {
+    .footer-content {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center;
+        gap: 0.5rem; /* Add space between stacked items */
+    }
+
+    .social-links {
+        justify-content: center; /* Center social icons on mobile */
+        margin-bottom: 0.5rem; /* Add space below social icons */
+    }
+
+    .footer-text {
+        font-size: 0.8rem; /* Further reduce font size for mobile */
+    }
+}
