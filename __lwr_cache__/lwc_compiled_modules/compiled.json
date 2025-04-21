@@ -1,242 +1,10 @@
 [
   [
-    "pages/navbar@0.0.1|client",
-    {
-      "ownHash": "3ba6e53da44221ea49c1bf6acfdcf15e",
-      "module": "./cache/pages_navbar_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_navbar_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/home@0.0.1|client",
-    {
-      "ownHash": "80e7d53254b47df673c12b404f45d5a5",
-      "module": "./cache/pages_home_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_home_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/footer@0.0.1|client",
-    {
-      "ownHash": "eaa102ffb8869eab934e390a09e7df41",
-      "module": "./cache/pages_footer_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_footer_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "lwr/esmLoader@0.16.4|client",
-    {
-      "ownHash": "df8ef45d0c7a45433924806c25286d05",
-      "module": "./cache/lwr_esmLoader_0_16_4_client.js",
-      "moduleMeta": "./cache/lwr_esmLoader_0_16_4_client.meta.json"
-    }
-  ],
-  [
-    "lwr/preInit@0.16.4|client",
-    {
-      "ownHash": "ec0fad0e38a96bb0b88c9f4553460347",
-      "module": "./cache/lwr_preInit_0_16_4_client.js",
-      "moduleMeta": "./cache/lwr_preInit_0_16_4_client.meta.json"
-    }
-  ],
-  [
-    "@lwc/synthetic-shadow@8.13.1|client",
-    {
-      "ownHash": "3074aa3fbd500f6741ecedb49a31fe7d",
-      "module": "./cache/_lwc_synthetic-shadow_8_13_1_client.js",
-      "moduleMeta": "./cache/_lwc_synthetic-shadow_8_13_1_client.meta.json"
-    }
-  ],
-  [
-    "lwr/hmr@0.16.4|client",
-    {
-      "ownHash": "9ec368190a80d2c6ab570d35f991a86e",
-      "module": "./cache/lwr_hmr_0_16_4_client.js",
-      "moduleMeta": "./cache/lwr_hmr_0_16_4_client.meta.json"
-    }
-  ],
-  [
-    "lwr/init@0.16.4|client",
-    {
-      "ownHash": "d7186d4fbbc58762dab0d51cc1f0afb8",
-      "module": "./cache/lwr_init_0_16_4_client.js",
-      "moduleMeta": "./cache/lwr_init_0_16_4_client.meta.json"
-    }
-  ],
-  [
-    "lwc@8.13.1|client",
-    {
-      "ownHash": "58e27da94c8be5e43c0cb24e03e335c0",
-      "module": "./cache/lwc_8_13_1_client.js",
-      "moduleMeta": "./cache/lwc_8_13_1_client.meta.json"
-    }
-  ],
-  [
-    "lwr/metrics@0.16.4|client",
-    {
-      "ownHash": "fb8c5dd340c69fdf7ded52d3eba633b9",
-      "module": "./cache/lwr_metrics_0_16_4_client.js",
-      "moduleMeta": "./cache/lwr_metrics_0_16_4_client.meta.json"
-    }
-  ],
-  [
-    "lwr/profiler@0.16.4|client",
-    {
-      "ownHash": "a152b8d35f12ca1b5147c5cd1ee155fb",
-      "module": "./cache/lwr_profiler_0_16_4_client.js",
-      "moduleMeta": "./cache/lwr_profiler_0_16_4_client.meta.json"
-    }
-  ],
-  [
-    "pages/navbar#navbar.html@0.0.1|client",
-    {
-      "ownHash": "553a52efc00b786c399f353021a10fb6",
-      "module": "./cache/pages_navbar_navbar_html_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_navbar_navbar_html_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/home#home.html@0.0.1|client",
-    {
-      "ownHash": "594b9d17d54d7c13f3bc023d1deafedd",
-      "module": "./cache/pages_home_home_html_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_home_home_html_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/footer#footer.html@0.0.1|client",
-    {
-      "ownHash": "18e7da825428a333149c2025cc6691e3",
-      "module": "./cache/pages_footer_footer_html_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_footer_footer_html_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/navbar#navbar.css@0.0.1|client",
-    {
-      "ownHash": "a8e44dcf13cff522a761c5eed0e43d22",
-      "module": "./cache/pages_navbar_navbar_css_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_navbar_navbar_css_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/navbar#navbar.scoped.css?scoped=true@0.0.1|client",
-    {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/pages_navbar_navbar_scoped_css_scoped=true_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_navbar_navbar_scoped_css_scoped=true_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/home#home.css@0.0.1|client",
-    {
-      "ownHash": "873cb7a6cd5db7f78c37449a3785df6d",
-      "module": "./cache/pages_home_home_css_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_home_home_css_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/home#home.scoped.css?scoped=true@0.0.1|client",
-    {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/pages_home_home_scoped_css_scoped=true_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_home_home_scoped_css_scoped=true_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/footer#footer.css@0.0.1|client",
-    {
-      "ownHash": "e14a9e04a118694d417c725d810e4a5e",
-      "module": "./cache/pages_footer_footer_css_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_footer_footer_css_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/footer#footer.scoped.css?scoped=true@0.0.1|client",
-    {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/pages_footer_footer_scoped_css_scoped=true_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_footer_footer_scoped_css_scoped=true_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/about@0.0.1|client",
-    {
-      "ownHash": "baacf16695862d341560ce60d5238e98",
-      "module": "./cache/pages_about_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_about_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/about#about.html@0.0.1|client",
-    {
-      "ownHash": "fcdb72fe7fc9f4cde03379325c10d730",
-      "module": "./cache/pages_about_about_html_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_about_about_html_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/about#about.css@0.0.1|client",
-    {
-      "ownHash": "05d6bab0eef55702d6ef0eb2c0e69b16",
-      "module": "./cache/pages_about_about_css_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_about_about_css_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/about#about.scoped.css?scoped=true@0.0.1|client",
-    {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/pages_about_about_scoped_css_scoped=true_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_about_about_scoped_css_scoped=true_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/contact@0.0.1|client",
-    {
-      "ownHash": "30bb1ec02e8e1bdcfa875aabe9011018",
-      "module": "./cache/pages_contact_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_contact_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/contact#contact.html@0.0.1|client",
-    {
-      "ownHash": "b6d9d5517213a1d14550d7ae4258767e",
-      "module": "./cache/pages_contact_contact_html_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_contact_contact_html_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/contact#contact.css@0.0.1|client",
-    {
-      "ownHash": "d41d8cd98f00b204e9800998ecf8427e",
-      "module": "./cache/pages_contact_contact_css_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_contact_contact_css_0_0_1_client.meta.json"
-    }
-  ],
-  [
-    "pages/contact#contact.scoped.css?scoped=true@0.0.1|client",
-    {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/pages_contact_contact_scoped_css_scoped=true_0_0_1_client.js",
-      "moduleMeta": "./cache/pages_contact_contact_scoped_css_scoped=true_0_0_1_client.meta.json"
-    }
-  ],
-  [
     "pages/navbar@0.0.1",
     {
       "ownHash": "3ba6e53da44221ea49c1bf6acfdcf15e",
       "module": "./cache/pages_navbar_0_0_1.js",
       "moduleMeta": "./cache/pages_navbar_0_0_1.meta.json"
-    }
-  ],
-  [
-    "pages/about@0.0.1",
-    {
-      "ownHash": "e155cf32591ad3e9c3b6310045af977e",
-      "module": "./cache/pages_about_0_0_1.js",
-      "moduleMeta": "./cache/pages_about_0_0_1.meta.json"
     }
   ],
   [
@@ -258,7 +26,7 @@
   [
     "lwr/esmLoader@0.8.15",
     {
-      "ownHash": "8e75fc5540bbcccc03fada493d4b96da",
+      "ownHash": "7c4f3484ff735693e06ee82863e90901",
       "module": "./cache/lwr_esmLoader_0_8_15.js",
       "moduleMeta": "./cache/lwr_esmLoader_0_8_15.meta.json"
     }
@@ -266,7 +34,7 @@
   [
     "lwr/preInit@0.8.15",
     {
-      "ownHash": "4abc90ae314e383e4c23f4dc607d9643",
+      "ownHash": "5578d349e9f0afec00eaf918ee3d3cee",
       "module": "./cache/lwr_preInit_0_8_15.js",
       "moduleMeta": "./cache/lwr_preInit_0_8_15.meta.json"
     }
@@ -274,7 +42,7 @@
   [
     "@lwc/synthetic-shadow@2.50.0",
     {
-      "ownHash": "bc23902dabeac28259d4d981d063676b",
+      "ownHash": "7265ed820f0685b90427514d906fbdb5",
       "module": "./cache/_lwc_synthetic-shadow_2_50_0.js",
       "moduleMeta": "./cache/_lwc_synthetic-shadow_2_50_0.meta.json"
     }
@@ -282,7 +50,7 @@
   [
     "lwr/hmr@0.8.15",
     {
-      "ownHash": "b6c05a5d79ea66f651b367c2a6190189",
+      "ownHash": "4d40ce97965c9c17f806555b225761bd",
       "module": "./cache/lwr_hmr_0_8_15.js",
       "moduleMeta": "./cache/lwr_hmr_0_8_15.meta.json"
     }
@@ -290,15 +58,23 @@
   [
     "lwr/init@0.8.15",
     {
-      "ownHash": "6258bcb20cc2d5d6a9f3c5a6f9d0acaf",
+      "ownHash": "140db737f710bd6bc5d75813c8f18b19",
       "module": "./cache/lwr_init_0_8_15.js",
       "moduleMeta": "./cache/lwr_init_0_8_15.meta.json"
     }
   ],
   [
+    "lwr/hmr#util/swap@0.8.15",
+    {
+      "ownHash": "c83590f6c0abfb343ae52ecb2ecb017c",
+      "module": "./cache/lwr_hmr_util_swap_0_8_15.js",
+      "moduleMeta": "./cache/lwr_hmr_util_swap_0_8_15.meta.json"
+    }
+  ],
+  [
     "lwr/metrics@0.8.15",
     {
-      "ownHash": "dfbc827104d50ff7d16b59c9d0e06aca",
+      "ownHash": "56aba7ebbcfd95d1ed3ee2d111616d20",
       "module": "./cache/lwr_metrics_0_8_15.js",
       "moduleMeta": "./cache/lwr_metrics_0_8_15.meta.json"
     }
@@ -306,7 +82,7 @@
   [
     "lwr/profiler@0.8.15",
     {
-      "ownHash": "5a10236d8c52bc9f6dee22875cd7016d",
+      "ownHash": "e76df3148aa0b0b6f6c13a5dc6194be0",
       "module": "./cache/lwr_profiler_0_8_15.js",
       "moduleMeta": "./cache/lwr_profiler_0_8_15.meta.json"
     }
@@ -314,23 +90,15 @@
   [
     "lwc@2.50.0",
     {
-      "ownHash": "b40440e2e29d782101f05d6085a324e9",
+      "ownHash": "1965e8279fd54fe12ac7da80a46da76c",
       "module": "./cache/lwc_2_50_0.js",
       "moduleMeta": "./cache/lwc_2_50_0.meta.json"
     }
   ],
   [
-    "lwr/hmr#util/swap@0.8.15",
-    {
-      "ownHash": "b90e85947b9514fa4d53fbced946e451",
-      "module": "./cache/lwr_hmr_util_swap_0_8_15.js",
-      "moduleMeta": "./cache/lwr_hmr_util_swap_0_8_15.meta.json"
-    }
-  ],
-  [
     "pages/navbar#navbar.html@0.0.1",
     {
-      "ownHash": "553a52efc00b786c399f353021a10fb6",
+      "ownHash": "588b40653d263570c933f562d1d4f8d0",
       "module": "./cache/pages_navbar_navbar_html_0_0_1.js",
       "moduleMeta": "./cache/pages_navbar_navbar_html_0_0_1.meta.json"
     }
@@ -368,6 +136,22 @@
     }
   ],
   [
+    "pages/footer#footer.css@0.0.1",
+    {
+      "ownHash": "e14a9e04a118694d417c725d810e4a5e",
+      "module": "./cache/pages_footer_footer_css_0_0_1.js",
+      "moduleMeta": "./cache/pages_footer_footer_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/footer#footer.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/pages_footer_footer_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/pages_footer_footer_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
     "pages/home#home.css@0.0.1",
     {
       "ownHash": "873cb7a6cd5db7f78c37449a3785df6d",
@@ -384,19 +168,11 @@
     }
   ],
   [
-    "pages/footer#footer.css@0.0.1",
+    "pages/about@0.0.1",
     {
-      "ownHash": "e14a9e04a118694d417c725d810e4a5e",
-      "module": "./cache/pages_footer_footer_css_0_0_1.js",
-      "moduleMeta": "./cache/pages_footer_footer_css_0_0_1.meta.json"
-    }
-  ],
-  [
-    "pages/footer#footer.scoped.css?scoped=true@0.0.1",
-    {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/pages_footer_footer_scoped_css_scoped=true_0_0_1.js",
-      "moduleMeta": "./cache/pages_footer_footer_scoped_css_scoped=true_0_0_1.meta.json"
+      "ownHash": "e155cf32591ad3e9c3b6310045af977e",
+      "module": "./cache/pages_about_0_0_1.js",
+      "moduleMeta": "./cache/pages_about_0_0_1.meta.json"
     }
   ],
   [
@@ -453,6 +229,38 @@
       "ownHash": "13fcec3d73f055fccd306149598cb9b5",
       "module": "./cache/pages_contact_contact_scoped_css_scoped=true_0_0_1.js",
       "moduleMeta": "./cache/pages_contact_contact_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/projects@0.0.1",
+    {
+      "ownHash": "b9d10a8c3fc6b3c7ceacf4f55c1fe2ac",
+      "module": "./cache/pages_projects_0_0_1.js",
+      "moduleMeta": "./cache/pages_projects_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/projects#projects.html@0.0.1",
+    {
+      "ownHash": "1cc051fc0bd8e5291efb23236423da15",
+      "module": "./cache/pages_projects_projects_html_0_0_1.js",
+      "moduleMeta": "./cache/pages_projects_projects_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/projects#projects.css@0.0.1",
+    {
+      "ownHash": "5a823915241b6feaf6cd9bfa8422d3a7",
+      "module": "./cache/pages_projects_projects_css_0_0_1.js",
+      "moduleMeta": "./cache/pages_projects_projects_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/projects#projects.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/pages_projects_projects_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/pages_projects_projects_scoped_css_scoped=true_0_0_1.meta.json"
     }
   ]
 ]
