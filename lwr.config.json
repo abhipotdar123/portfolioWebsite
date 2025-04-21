@@ -27,6 +27,15 @@
             "bootstrap": {
                 "syntheticShadow": true
             }
+        },
+        {
+            "id": "projects",
+            "path": "/projects",
+            "layoutTemplate": "$layoutsDir/main.html",
+            "rootComponent": "pages/projects",
+            "bootstrap": {
+                "syntheticShadow": true
+            }
         }
     ],
     "assets": [

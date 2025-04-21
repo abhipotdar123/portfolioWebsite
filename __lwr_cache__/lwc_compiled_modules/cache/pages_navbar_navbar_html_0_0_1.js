@@ -7,7 +7,7 @@ import _implicitScopedStylesheets from "./navbar.scoped.css?scoped=true";
 import {parseFragment, registerTemplate} from "lwc";
 const $fragment1 = parseFragment`<a href="/" class="brand${0}"${2}><img src="/public/assets/brand-logo.jpg" alt="Mr. SFDC Logo" class="brand-logo${0}"${2}></a>`;
 const $fragment2 = parseFragment`<button class="hamburger${0}" aria-label="Toggle Menu"${2}>☰</button>`;
-const $fragment3 = parseFragment`<ul${3}><li${3}><a href="/" class="nav-link${0}"${2}>Home</a></li><li${3}><a href="/about" class="nav-link${0}"${2}>About Me</a></li><li${3}><a href="/contact" class="nav-link${0}"${2}>Contact Us</a></li></ul>`;
+const $fragment3 = parseFragment`<ul${3}><li${3}><a href="/" class="nav-link${0}"${2}>Home</a></li><li${3}><a href="/about" class="nav-link${0}"${2}>About Me</a></li><li${3}><a href="/contact" class="nav-link${0}"${2}>Contact Us</a></li><li${3}><a href="/projects" class="nav-link${0}"${2}>Projects</a></li></ul>`;
 const $fragment4 = parseFragment`<a href="resume.pdf" download class="resume-btn${0}"${2}>Download My Resume</a>`;
 const stc0 = {
   classMap: {
